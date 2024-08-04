@@ -11,6 +11,13 @@
 
 </div>
 
+<div align="center">
+
+[简体中文](Readme-sp.md)
+[繁体中文](Readme.md)
+
+</div>
+
 <table>
     <tbody>
         <tr>
