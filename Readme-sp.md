@@ -15,7 +15,7 @@
 <div align="center">
   
 [简体中文](Readme-sp.md)
-[緐體中文](Readme.md)
+[緐體中文](README.md)
 
 </div>
 
