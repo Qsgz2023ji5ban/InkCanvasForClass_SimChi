@@ -19,6 +19,13 @@ Elegant by Default. Based on `ChangSakura/InkCanvas` .
 
 </div>
 
+<div align="center">
+
+[简体中文](Readme-sp.md)
+[繁体中文](README.md)
+
+</div>
+
 ## 贊助支持
 
 我已註冊愛發電，感謝各位對icc的支持！[https://afdian.net/a/dubi906w](https://afdian.net/a/dubi906w)
