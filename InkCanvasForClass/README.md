@@ -14,9 +14,6 @@ Elegant by Default. Based on `ChangSakura/InkCanvas` .
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-blue?style=flat&logo=TencentQQ)]()
 [![Telegram](https://img.shields.io/badge/-Telegram%20@InkCanvasForClass-blue?style=flat&logo=Telegram)](https://t.me/InkCanvasForClass)
 
-![Screenshot-1](./Images/icc1.png)
-![Screenshot-2](./Images/icc2.png)
-
 </div>
 
 <div align="center">
@@ -25,6 +22,9 @@ Elegant by Default. Based on `ChangSakura/InkCanvas` .
 [繁体中文](README.md)
 
 </div>
+
+![Screenshot-1](./Images/icc1.png)
+![Screenshot-2](./Images/icc2.png)
 
 ## 贊助支持
 
